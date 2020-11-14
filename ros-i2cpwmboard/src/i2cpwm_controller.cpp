@@ -236,7 +236,7 @@ enum drive_mode_positions {
     POSITION_INVALID    = 5
 };
 
-#define _BASE_ADDR   0x40
+#define _BASE_ADDR   0x41
 #ifndef _PI
 #define _PI 3.14159265358979323846
 #endif
